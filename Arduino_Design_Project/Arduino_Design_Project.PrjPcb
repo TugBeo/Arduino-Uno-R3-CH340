@@ -36,10 +36,7 @@ ConstraintManagerFlow=0
 IsVirtualBomDocumentRemoved=0
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=8977C745-9EF8-42FA-AC1B-12720C3465DD
-VaultGUID=15AC70AB-4A70-484A-8960-8B2B072336E9
-ReleaseVaultName=Tung Phan
-ItemGUID=8977C745-9EF8-42FA-AC1B-12720C3465DD
+ManagedProjectGUID=
 IncludeDesignInRelease=0
 CrossRefSheetStyle=1
 CrossRefLocationStyle=1
@@ -103,7 +100,28 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document4]
+DocumentPath=Arduino_Design_Project.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=DJSIUVLG
+
 [GeneratedDocument1]
+DocumentPath=Project Outputs for Arduino_Design_Project\Design Rule Check - Arduino_Design_Project.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
 DocumentPath=Project Outputs for Arduino_Design_Project\Move Component(s) Origin To Grid - Arduino_Design_Project.html
 DItemRevisionGUID=
 
